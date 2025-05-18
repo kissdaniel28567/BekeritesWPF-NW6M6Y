@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\bekeriteswpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|solutionrelative:bekeriteswpf\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\bekeriteswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|solutionrelative:bekeriteswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\bekeriteswpf\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|solutionrelative:bekeriteswpf\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\bekeriteswpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|solutionrelative:bekeriteswpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\bekeriteswpf\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|solutionrelative:bekeriteswpf\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\bekeriteswpf\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|solutionrelative:bekeriteswpf\\viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\bekeriteswpf\\viewmodel\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|solutionrelative:bekeriteswpf\\viewmodel\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\gamemechanics\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|solutionrelative:gamemechanics\\model\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\gamemechanics\\persistence\\gamefiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|solutionrelative:gamemechanics\\persistence\\gamefiledataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\bekeriteswpf\\viewmodel\\playervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|solutionrelative:bekeriteswpf\\viewmodel\\playervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5FC91A-3148-45DC-87D2-46D0FFE95D67}|GameMechanicsMsTest\\GameMechanicsMsTest.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\gamemechanicsmstest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5FC91A-3148-45DC-87D2-46D0FFE95D67}|GameMechanicsMsTest\\GameMechanicsMsTest.csproj|solutionrelative:gamemechanicsmstest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\gamemechanics\\model\\playereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|solutionrelative:gamemechanics\\model\\playereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\bekeriteswpf\\viewmodel\\colorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7084D5-49F0-4A42-8AFB-E68886C67C5F}|bekeritesWPF\\bekeritesWPF.csproj|solutionrelative:bekeriteswpf\\viewmodel\\colorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\gamemechanics\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|solutionrelative:gamemechanics\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|c:\\suli\\elte\\3. f\u00E9l\u00E9v\\eva\\wpf beadando\\bekeriteswpf\\gamemechanics\\model\\pointseventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8AD529-A9A3-40CC-9DEE-BF523302D050}|GameMechanics\\GameMechanics.csproj|solutionrelative:gamemechanics\\model\\pointseventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\App.xaml",
+              "RelativeDocumentMoniker": "bekeritesWPF\\App.xaml",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\App.xaml",
+              "RelativeToolTip": "bekeritesWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T12:02:53.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "bekeritesWPF\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "bekeritesWPF\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:50:01.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerEventArgs.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Model\\PlayerEventArgs.cs",
+              "RelativeDocumentMoniker": "GameMechanics\\Model\\PlayerEventArgs.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Model\\PlayerEventArgs.cs",
+              "RelativeToolTip": "GameMechanics\\Model\\PlayerEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:09:06.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PointsEventArgs.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Model\\PointsEventArgs.cs",
+              "RelativeDocumentMoniker": "GameMechanics\\Model\\PointsEventArgs.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Model\\PointsEventArgs.cs",
+              "RelativeToolTip": "GameMechanics\\Model\\PointsEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:34:18.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "bekeritesWPF\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\View\\MainWindow.xaml",
+              "RelativeToolTip": "bekeritesWPF\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T13:43:09.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ColorConverter.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\ColorConverter.cs",
+              "RelativeDocumentMoniker": "bekeritesWPF\\ViewModel\\ColorConverter.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\ColorConverter.cs",
+              "RelativeToolTip": "bekeritesWPF\\ViewModel\\ColorConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:52:41.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "bekeritesWPF\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "bekeritesWPF\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:45:14.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "GameMechanics\\Model\\Player.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Model\\Player.cs",
+              "RelativeToolTip": "GameMechanics\\Model\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:57:11.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "bekeritesWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\App.xaml.cs",
+              "RelativeToolTip": "bekeritesWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:10:22.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerValidator.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\PlayerValidator.cs",
+              "RelativeDocumentMoniker": "bekeritesWPF\\ViewModel\\PlayerValidator.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\PlayerValidator.cs",
+              "RelativeToolTip": "bekeritesWPF\\ViewModel\\PlayerValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:00:57.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanicsMsTest\\Test.cs",
+              "RelativeDocumentMoniker": "GameMechanicsMsTest\\Test.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanicsMsTest\\Test.cs",
+              "RelativeToolTip": "GameMechanicsMsTest\\Test.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:41:47.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Model\\GameModel.cs",
+              "RelativeDocumentMoniker": "GameMechanics\\Model\\GameModel.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Model\\GameModel.cs",
+              "RelativeToolTip": "GameMechanics\\Model\\GameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:57:20.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameFileDataAccess.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Persistence\\GameFileDataAccess.cs",
+              "RelativeDocumentMoniker": "GameMechanics\\Persistence\\GameFileDataAccess.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\GameMechanics\\Persistence\\GameFileDataAccess.cs",
+              "RelativeToolTip": "GameMechanics\\Persistence\\GameFileDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:30:29.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameField.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\GameField.cs",
+              "RelativeDocumentMoniker": "bekeritesWPF\\ViewModel\\GameField.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\GameField.cs",
+              "RelativeToolTip": "bekeritesWPF\\ViewModel\\GameField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:28:04.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "bekeritesWPF\\ViewModel\\DelegateCommand.cs",
+              "ToolTip": "C:\\Suli\\ELTE\\3. F\u00E9l\u00E9v\\EVA\\WPF Beadando\\bekeritesWPF\\bekeritesWPF\\ViewModel\\DelegateCommand.cs",
+              "RelativeToolTip": "bekeritesWPF\\ViewModel\\DelegateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:46:31.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

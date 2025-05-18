@@ -1,0 +1,67 @@
+﻿<Window x:Class="bekeritesWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bekeritesWPF"
+        mc:Ignorable="d"
+        Title="Bekerites WPF" Height="450" Width="650">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Left" Width="200">
+            <!-- player data -->
+            <TextBox Text="{Binding Player1Name}" Margin="5, 15, 5, 5" IsEnabled="{Binding IsPlayerInputEnabled}"/>
+            <TextBox Text="{Binding Player1Point}" Margin="5" IsEnabled="False"/>
+            <TextBox Text="{Binding Player1Color}" Margin="5" IsEnabled="{Binding IsPlayerInputEnabled}"/>
+            <TextBox Text="{Binding Player2Name}" Margin="5" IsEnabled="{Binding IsPlayerInputEnabled}"/>
+            <TextBox Text="{Binding Player2Point}" Margin="5" IsEnabled="False"/>
+            <TextBox Text="{Binding Player2Color}" Margin="5" IsEnabled="{Binding IsPlayerInputEnabled}"/>
+            <Button Command="{Binding AddPlayerCommand}" Content="Add Players" Width="100" Margin="0, 10, 0, 20" IsEnabled="{Binding IsPlayerInputEnabled}"/>
+
+            <!-- Table settings -->
+            <RadioButton Width="150" Content="6X6"   IsEnabled="{Binding IsSizeInputEnabled}" Command="{Binding RadioChange}" 
+                         CommandParameter="{Binding Content, RelativeSource={RelativeSource Self}}" Margin="5"/>
+            <RadioButton Width="150" Content="8X8"   IsEnabled="{Binding IsSizeInputEnabled}" Command="{Binding RadioChange}" 
+                         CommandParameter="{Binding Content, RelativeSource={RelativeSource Self}}" Margin="5"/>
+            <RadioButton Width="150" Content="10X10" IsEnabled="{Binding IsSizeInputEnabled}" Command="{Binding RadioChange}" 
+                         CommandParameter="{Binding Content, RelativeSource={RelativeSource Self}}" Margin="0, 5, 0, 20"/>
+            
+            <!-- Game starter buttons -->
+            <Button Content="Start Game" Command="{Binding StartGame}" Width="100" Margin="5"/>
+            <Button Content="Load Game" Command="{Binding LoadGameCommand}"  Width="100" Margin="5"/>
+            <Button Content="Save Game" Command="{Binding SaveGameCommand}" Width="100" Margin="5"/>
+            
+        </StackPanel>
+        <!-- ItemsSource="{Binding GameBoard}" -->
+        <ItemsControl ItemsSource="{Binding GameBoard}">
+            <!-- egymás melletti mátrix-like design template-ként megadva, hogy alkalmazkodjon -->
+            <!--az mezőket tároló vezérlő-->
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <!--a gombokat egy rácsba fűzzük fel-->
+                    <UniformGrid Rows="{Binding BoardSize}" Columns="{Binding BoardSize}" />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <!-- Gombok készítése automatikusan. Gombon belül egy image -->
+                <DataTemplate>
+                    <Button Command="{Binding StepCommand}" CommandParameter="{Binding XY}" >
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="White"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding Value}" Value="1">
+                                        <Setter Property="Background" Value="{Binding DataContext.Player1Color, RelativeSource={RelativeSource AncestorType=Window}}"/>
+                                    </DataTrigger>
+                                    <DataTrigger Binding="{Binding Value}" Value="2">
+                                        <Setter Property="Background" Value="{Binding DataContext.Player2Color, RelativeSource={RelativeSource AncestorType=Window}}"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                            <!--Width="{Binding ButtonSize.Width}" Height="{Binding ButtonSize.Height}" -->
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </DockPanel>
+</Window>
